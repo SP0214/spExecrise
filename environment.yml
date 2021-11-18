@@ -11,7 +11,7 @@ dependencies:
     - thinc
     - tqdm
     - sklearn
-    - pillow
+    - Pillow
     - xgboost
     - sympy
     - requests
